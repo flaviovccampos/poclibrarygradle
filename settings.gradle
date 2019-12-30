@@ -1,0 +1,2 @@
+include ':app', ':locationgeofences'
+rootProject.name='POC Library Gradle'
